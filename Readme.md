@@ -14,6 +14,18 @@ This is a base project that you can use to start your react project, but we alre
 I know but I dont like it 🤷‍♂,this has a simple boilerplate as compared to CRA and lite.
 Enough to get your hands dirty 🔥
 
+## Install
+
+- Using NPX
+
+  1. `npx react-starter-lite`
+
+- Using NPM
+
+  1.  first run `npm i react-starter-lite -g`
+
+  2.  then run `react-starter-lite` in your desired directory
+
 ## Issues
 
 npm install is not working as expected use `npx react-starter-lite`
