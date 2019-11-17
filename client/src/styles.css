@@ -13,7 +13,11 @@ body {
   border-radius: 20px;
   text-align: center;
 }
-p {
+.content {
   font-size: 30px;
   margin-top: 10px;
+}
+h5 {
+  margin: 10px;
+  padding: 0;
 }

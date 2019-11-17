@@ -1,12 +1,13 @@
 import React from "react";
 import "./styles.css";
 const App = () => {
+  console.log("testttt");
   return (
     <div className="card">
-      <p>
+      <div className="content">
         {"{..."} &#9829;{"}"}
-        <p>! hate</p>
-      </p>
+        <h5>! hate</h5>
+      </div>
     </div>
   );
 };
