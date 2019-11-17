@@ -10,8 +10,9 @@ Simple base app with react, hot-reload &amp; css.
 
 ## What is this
 
-This is a base project that you can use to start your react apps but we have CRA?
-I know,this has a simple boilerplate as compared to CRA and lite.Enough to get your hands dirty
+This is a base project that you can use to start your react project, but we already have CRA 😠 ?
+I know but I dont like it 🤷‍♂,this has a simple boilerplate as compared to CRA and lite.
+Enough to get your hands dirty 🔥
 
 ## Issues
 
