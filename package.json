@@ -1,0 +1,31 @@
+{
+  "name": "react-starter-lite",
+  "version": "0.0.4",
+  "description": "Quickly setup a starter project for react",
+  "main": "./src/index.js",
+  "bin": "./src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "react",
+    "react-app",
+    "create-react-app",
+    "react-simple-app",
+    "react-basic-app",
+    "react-starter"
+  ],
+  "author": "Royal Bhati",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalbhati/react-starter-lite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/royalbhati/react-starter-lite.git/issues"
+  },
+  "homepage": "https://github.com/royalbhati/react-starter-lite.git#readme"
+}
