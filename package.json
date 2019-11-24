@@ -18,7 +18,11 @@
   ],
   "author": "Royal Bhati",
   "dependencies": {
-    "ncp": "^2.0.0"
+    "chalk": "^3.0.0",
+    "execa": "^3.3.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
   },
   "repository": {
     "type": "git",
